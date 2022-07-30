@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rafael! 😀
+## Olá! Seja bem-vindo! Eu sou o Rafael! 😀
 
  <div>
    <a href="https://github.com/rafaleitejr">
